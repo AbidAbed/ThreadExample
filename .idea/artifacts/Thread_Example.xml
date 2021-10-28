@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Thread Example">
+    <output-path>$PROJECT_DIR$/out/artifacts/Thread_Example</output-path>
+    <root id="archive" name="Thread Example.jar">
+      <element id="module-output" name="Thread Example" />
+    </root>
+  </artifact>
+</component>
